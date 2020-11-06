@@ -5,7 +5,7 @@ What can be said about the summary DataFrame and multiple-line graph with respec
 A short summary of the results.
 The second paragraph should include the following:
 
-
+![](https://github.com/Abigail-Woolf/PyBer_Analysis/blob/master/Summary_DataFrame.png)
 
 Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
 Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
