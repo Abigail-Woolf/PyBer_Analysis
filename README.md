@@ -19,7 +19,7 @@ short summary of results
 
 ## Challenges
 Luckily, the raw data used in this assignment was very clean, allowing me to go ahead with the analysis and skip the cleaning process. A method I used to further organize the raw data was to merge the two separate dataframes into one dataframe: ride_data_df and city_data_df. This created my master dataframe, pyber_data_df, which I used to create my visual representations. The line graph below shows that the trends between the three city types mirror each other, and tend to be dependent on the time of year. This makes sense because as the weather gets better (in May, for example), people will walk more. This graph also shows that there are more variables to be considered throughout this analysis other than city type.
-![](analysis/Challenge_fare_summary.png)
+![](https://github.com/Abigail-Woolf/PyBer_Analysis/blob/master/Analysis_Imgs/Challenge_fare_summary%20copy.png)
 
 
 
