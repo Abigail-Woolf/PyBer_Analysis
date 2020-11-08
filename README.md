@@ -1,17 +1,7 @@
 # PyBer_Analysis
-
-How did you analyze the data to create the technical deliverables?
-What can be said about the summary DataFrame and multiple-line graph with respect to the ride-sharing data among the different city types? Include images of the summary DataFrame table and the multiple-line graph in these results.
-A short summary of the results.
-The second paragraph should include the following:
+To help improve access to ride-sharing services and determine affordability for underserved neighborhoods I took a deep dive into the ride_data.csv and the accompanying city_data.csv. Firstly, I wanted to create a summary dataframe to get familiary with obvious trend in the data. This is the Summary Dataframe:
 
 ![](https://github.com/Abigail-Woolf/PyBer_Analysis/blob/master/Analysis_Imgs/Summary_DataFrame.png)
-
-Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
-Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
-What technical steps would you take to perform the additional analyses?
-
-To help improve access to ride-sharing services and determine affordability for underserved neighborhoods I took a deep dive into the ride_data.csv and the accompanying city_data.csv. Firstly, I wanted to create a summary dataframe to get familiary with obvious trend in the data. This is the Summary Dataframe:
 
 Matplotlib is a graphing and plotting library for Python that comes with the Anaconda installation. To use it with Jupyter Notebook, all we need to do is import it. Matplotlib is often used with another Python library, NumPy, a numerical mathematics library for making arrays or matrices.
 The PyBer analysis was completed in order to deliver a clear and concise representation of the ride-sharing app data to the company CEO. The data was analyzed by organizing the fares per ride and fares per driver by the three different city types. This allowed us to recognize different patterns of success in the ride-sharing app between different geographical areas. 
